@@ -1,1 +1,1 @@
-
+The code takes a numeric grade as input from the user and assigns a letter grade based on the value. If the grade is 90 or above, it prints "Your grade is= A"; if it is 80 or above but less than 90, it prints "Your grade is= B"; if it is 70 or above but less than 80, it prints "Your grade is= C."
