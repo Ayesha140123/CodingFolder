@@ -1,0 +1,1 @@
+The code takes a number as input from the user, checks whether it is divisible by 2 using the modulo operator (%), and determines if it is even or odd. If the remainder of the division by 2 is 0, it prints "The number is even"; otherwise, it prints "The number is odd."
